@@ -41,7 +41,7 @@ The main goal of the project is to understand not only how revenue changes over 
 
 # 📊 Dashboard Preview
 
-dashboard/dashboard_screenshot.png
+![Dashboard](dashboard/dashboard_screenshot.png)
 
 ---
 
