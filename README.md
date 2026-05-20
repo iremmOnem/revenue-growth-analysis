@@ -77,6 +77,7 @@ Window functions used:
 - `LAG()`
 - `LEAD()`
 
+👉 [View SQL Query](sql/revenue_analysis.sql)
 ---
 
 # 📈 Key Metrics
